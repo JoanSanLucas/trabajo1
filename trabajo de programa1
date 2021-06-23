@@ -1,0 +1,13 @@
+/MULTIPLICACIÓN DE LAS MATRICES// joan enrique san lucas
+
+if(c==3)
+
+{
+	cout<<"USTED A ESCOGIDO LA MULTIPLICACION\n\n";
+	cout<<"EL RESULTADO ES:\n\n";
+	for (int i=0;i<10;i++)
+{
+	producto[i]=matriz1[i]*matriz2[i];
+	cout<<producto[i]<<"\n";
+}
+}
